@@ -1,0 +1,20 @@
+#ifndef ENEMIES_H
+#define ENEMIES_H
+#include "Enemy.h"
+#include "Gremlin.h"
+#include "Gremlin.cpp"
+#include "Cawkaduo.h"
+#include "Cawkaduo.cpp"
+#include "Stonipede.h"
+#include "Stonipede.cpp"
+#include "Skelvern.h"
+#include "Skelvern.cpp"
+#include "Imp.h"
+#include "Imp.cpp"
+#include "Cawkatrio.h"
+#include "Cawkatrio.cpp"
+#include "Steelipede.h"
+#include "Steelipede.cpp"
+#include "Dreadgon.h"
+#include "Dreadgon.cpp"
+#endif
